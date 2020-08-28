@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190768817969",
+    "firebase_url": "https://myclocker-1ef5f.firebaseio.com",
+    "project_id": "myclocker-1ef5f",
+    "storage_bucket": "myclocker-1ef5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190768817969:android:15a1a1a915983af16b7210",
+        "android_client_info": {
+          "package_name": "ccrr.example.myclocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190768817969-qkr3alvvk6i8f29pimouj8p0f72i9s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UrZElZCquDmg9gQ7L4HDx3PR28PtSOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190768817969-qkr3alvvk6i8f29pimouj8p0f72i9s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
